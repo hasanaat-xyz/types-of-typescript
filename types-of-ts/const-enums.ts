@@ -3,5 +3,4 @@ const enum Size {
   Medium,
   Large
 }
-
 let s = Size.Medium; // compiles to: let s = 1;
