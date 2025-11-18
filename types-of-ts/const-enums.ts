@@ -1,5 +1,4 @@
-const enum Size 
-{
+const enum Size {
   Small,
   Medium,
   Large
