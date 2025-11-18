@@ -1,7 +1,6 @@
 const enum Size 
 {
   Small,
-  
   Medium,
   Large
 }
